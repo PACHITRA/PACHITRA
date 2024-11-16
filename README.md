@@ -1,10 +1,11 @@
 
- <h2 align="center">Hi there 👋, I am Pavan.C aka Pachitra</h2>
+ 
 <p align="center">
   <a href="https://quotes-github-readme.vercel.app">
    <img height=200px src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!" />
   </a>
 </p>
+<h2 align="center">Hi there 👋, I am Pavan.C aka Pachitra</h2>
 <h3>💻 About me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pachitra&label=Profile%20views&color=0e75b6&style=flat" alt="pachitra" /> </p>
 <p>
