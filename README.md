@@ -28,14 +28,20 @@
   
 
 <p>
-  <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=756px&theme=radical" alt="pachitra" />
-
+  <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=756px&theme=radical" alt="pachitra" style="padding-right:0;" />
 </p>
-<p >
-  
-   <img align=right height=210px src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!" />
-<p>&nbsp;
+<p>
+  <img align="right" height="300px" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!" style="position: absolute; top: 0; right: 20px;" />
+</p>
+<p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pachitra&card_width=300px&theme=radical" alt="pachitra" />
-  <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=300px" alt="pachitra" /></p>
-  </p>
+  <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=300px" alt="pachitra" />
+</p>
+<div style="position: relative; width: 756px;">
+  <!-- Base Image (Top Languages Card) -->
+  <img src="https://github-readme-stats-alpha-eight-82.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=756px&theme=radical" alt="pachitra" style="display: block;" />
+  
+  <!-- Overlay Image -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!" alt="Overlay" style="position: absolute; top: 0; right: 20px; width: 200px; height: 200px;" />
+</div>
 
