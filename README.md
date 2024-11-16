@@ -1,5 +1,4 @@
-
- [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
 
 <h2 align="center">Hi there 👋, I am Pavan.C aka Pachitra</h2>
 <h3>💻 About me</h3>
@@ -29,7 +28,7 @@
   
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=756px&theme=radical" alt="pachitra" />
+  <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=756px&theme=radical" alt="pachitra" />
 
 </p>
 <p >
@@ -37,6 +36,6 @@
    <img align=right height=210px src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!" />
 <p>&nbsp;
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pachitra&card_width=300px&theme=radical" alt="pachitra" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=300px" alt="pachitra" /></p>
+  <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=300px" alt="pachitra" /></p>
   </p>
 
