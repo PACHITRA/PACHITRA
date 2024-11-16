@@ -28,7 +28,7 @@
   
 
 <p>
-  <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=700px&theme=radical" alt="pachitra" style="padding-right:0;" />
+  <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=500px&theme=radical" alt="pachitra" style="padding-right:0;" />
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pachitra&card_width=400px&theme=radical" alt="pachitra style="position: absolute; top: 0; right: 20px" />
 </p>
 <p>
