@@ -37,4 +37,8 @@
   <img width=525px height=160px src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!&author=ChatGPT" />
 </p>
 <br />
-
+<div align="center">
+  <a href="https://open.spotify.com/user/gyejstqnmh9nqeog6br2iiym3">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gyejstqnmh9nqeog6br2iiym3&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
