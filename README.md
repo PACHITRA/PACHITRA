@@ -22,7 +22,7 @@
 <br />
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=800px&theme=radical" alt="pachitra" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=700px&theme=radical" alt="pachitra" />
 
 </p>
 <p>&nbsp;
