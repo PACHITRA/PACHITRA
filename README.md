@@ -27,5 +27,5 @@
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pachitra&card_width=400px&theme=radical" alt="pachitra" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=570px" alt="pachitra" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=500px" alt="pachitra" /></p>
 
