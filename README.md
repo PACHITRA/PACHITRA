@@ -31,7 +31,7 @@
   <img align="left" src="https://github-readme-stats-alpha-eight-82.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=1000px&theme=radical" alt="pachitra" style="padding-right:0;" />
 </p>
 <p>
-  <img align="right" height="375px" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!" style="position: absolute; top: 0; right: 20px;" />
+  <img align="right" height="375px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!" style="position: absolute; top: 0; right: 20px;" />
 </p>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pachitra&card_width=400px&theme=radical" alt="pachitra" />
