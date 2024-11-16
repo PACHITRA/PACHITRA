@@ -1,6 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/d9a7de4cfa37a723afb0560b54f5690df7ec0004d9882281496fe53c862637a1/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966)](https://rishavchanda.io)
 
-<h2 align="center">Hi there 👋, I am Pavan.C aka Pachitra</h2>
+<h1 align="center">Hi there 👋, I am Pavan.C aka Pachitra</h1>
 <h3>💻 About me</h3>
 <p>
  <img align="right" width=400px src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
