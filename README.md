@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](https://rishavchanda.io)
 
 <h2 align="center">Hi there 👋, I am Pavan.C aka Pachitra</h2>
 <h3>💻 About me</h3>
