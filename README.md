@@ -2,13 +2,13 @@
  <h2 align="center">Hi there 👋, I am Pavan.C aka Pachitra</h2>
 <p align="center">
   <a href="https://quotes-github-readme.vercel.app">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)](https://github.com/piyushsuthar/github-readme-quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=false)](https://github.com/piyushsuthar/github-readme-quotes" />
   </a>
 </p>
 <h3>💻 About me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pachitra&label=Profile%20views&color=0e75b6&style=flat" alt="pachitra" /> </p>
-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<img align="right" scr="https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif">
 - 🔭 I’m currently working on [CampusConnect](https://github.com/roystondz/campusConnect)
 
 - 🌱 I’m currently learning **Web Dev**
