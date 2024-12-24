@@ -29,7 +29,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=150px" alt="pachitra" />
-  <img src="https://streak-stats.demolab.com?user=pachitra&theme=radical" alt="GitHub Streak" alt="pachitra" style="position: absolute; top: 0; right: 10px" />
+  <img src="https://streak-stats.demolab.com?user=pachitra&theme=radical" alt="GitHub Streak" alt="pachitra"  />
  
 </p>
 <p>
