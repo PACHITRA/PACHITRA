@@ -29,7 +29,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=300px" alt="pachitra" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pachitra&card_width=350px&theme=radical" alt="pachitra style="position: absolute; top: 0; right: 20px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pachitra&theme=radical" alt="GitHub Streak" alt="pachitra style="position: absolute; top: 0; right: 20px" />
 </p>
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=250px&theme=radical" alt="pachitra"  />
