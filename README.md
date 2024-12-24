@@ -30,7 +30,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=300px" alt="pachitra" />
   <img src="https://streak-stats.demolab.com?user=pachitra&theme=radical" alt="GitHub Streak" alt="pachitra style="position: absolute; top: 0; right: 20px" />
- [![GitHub Streak](https://streak-stats.demolab.com?user=pachitra&theme=radical&hide_border=true)](https://git.io/streak-stats)
+ 
 </p>
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=250px&theme=radical" alt="pachitra"  />
