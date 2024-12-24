@@ -33,7 +33,7 @@
  
 </p>
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=350px&theme=radical" alt="pachitra"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=250px&theme=radical" alt="pachitra"  />
  
   <img width=575px height=160px src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!&author=ChatGPT" />
 </p>
