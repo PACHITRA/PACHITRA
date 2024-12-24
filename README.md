@@ -40,7 +40,7 @@
 <br />
 <div>
   <a href="https://open.spotify.com/user/gyejstqnmh9nqeog6br2iiym3">
-    <img width="510px" src="https://spotify-recently-played-readme.vercel.app/api?user=gyejstqnmh9nqeog6br2iiym3&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gyejstqnmh9nqeog6br2iiym3&count=5&unique=true" alt="Spotify recently played"  />
      <img height="430px" src="235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf-ezgif.com-gif-to-apng-converter.png" />
   </a>
 </div>
