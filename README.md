@@ -29,13 +29,13 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pachitra&show_icons=true&locale=en&rank_icon=github&theme=radical&card_width=100px" alt="pachitra" />
-  <img src="https://streak-stats.demolab.com?user=pachitra&theme=radical" alt="GitHub Streak" alt="pachitra" style="position: absolute; top: 0; right: 0px" />
+  <img src="https://streak-stats.demolab.com?user=pachitra&theme=radical" alt="GitHub Streak" alt="pachitra" style="position: absolute; top: 0; right: 20" />
  
 </p>
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pachitra&show_icons=true&locale=en&layout=compact&card_width=250px&theme=radical" alt="pachitra"  />
  
-  <img width=555px height=160px src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!&author=ChatGPT" />
+  <img width=500px height=160px src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=false&quote=Good%20design%20is%20invisible.%20Good%20code%20is%20also%20invisible—until%20it%20breaks.!&author=ChatGPT" />
 </p>
 <br />
 <div>
